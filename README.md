@@ -44,7 +44,7 @@ POST /api/notes should receive a new note to save on the request body, add it to
 ## Features
 1. Create Notes
 2. Save Notes
-3. Delete Notes
+
 
 ## Technologies Used
 - Node.js
@@ -68,3 +68,6 @@ For any questions, please contact us:
 
 GitHub: 
 [https://github.com/SudoSapien21] 
+
+
+![Demonstration of the finished Note Taker.](./Assets/Demo1.gif)
